@@ -1,3 +1,3 @@
 exports.printMsg = function() {
-    console.log("This is a message from the Musically package");
+    console.log("You are running a test version of Musically V1.0.3");
 }
