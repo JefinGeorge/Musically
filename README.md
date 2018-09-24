@@ -1,5 +1,5 @@
 
-Musically v1.0.4 - NPM Package (https://www.npmjs.com/package/musically)
+Musically v1.0.5 - NPM Package (https://www.npmjs.com/package/musically)
 
 The Complete Coding Solution For Your Musical Needs
 
