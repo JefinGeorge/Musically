@@ -1,6 +1,6 @@
 {
   "name": "musically",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "The Complete Coding Solution For Your Musical Needs",
   "main": "index.js",
   "scripts": {
