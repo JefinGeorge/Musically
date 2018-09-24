@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-=======
-  
->>>>>>> d0921a3da25131473fa25f2abee31f62c9732763
+
 Musically v1.0.4 - The Complete Coding Solution For Your Musical Needs
 
 ## ChordInput
